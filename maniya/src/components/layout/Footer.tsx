@@ -9,7 +9,7 @@ import {
   FiGithub,
 } from "react-icons/fi";
 import Link from "next/link";
-import Image from "next/image";
+
 
 const Footer3 = () => {
   const iconStyles = {

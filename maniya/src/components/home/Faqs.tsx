@@ -1,10 +1,6 @@
 import React from "react";
 import Link from "next/link";
 
-interface Question {
-  question: string;
-  answer: string;
-}
 
 interface QuestionItemProps {
   question: string;

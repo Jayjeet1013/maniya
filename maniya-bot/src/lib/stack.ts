@@ -10,7 +10,7 @@ export function getStackClient(): StackClient | null {
   if (!stack) {
     stack = new StackClient({
       apiKey: process.env.STACK_API_KEY as string,
-      pointSystemId: 2893,
+      pointSystemId: 3375,
     });
   }
   return stack;
