@@ -14,10 +14,10 @@ function Hero15() {
           <div className="grid items-center grid-cols-1 lg:grid-cols-2 gap-y-12 gap-x-16">
             <div>
               <h1 className="text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl xl:text-6xl sm:tracking-tight">
-                Transform Your Communication with Maniya
+                Transform Your Communication with Maniya Bot
               </h1>
               <p className="mt-6 text-lg leading-7 text-gray-700 lg:leading-8 lg:text-xl">
-                Maniya offers blockchain-secured communication tools to enhance
+                Maniya Bot offers blockchain-secured communication tools to enhance
                 your web experience with fast, secure, and reliable messaging.
               </p>
               <div className="mt-8">
@@ -27,7 +27,7 @@ function Hero15() {
                   className={`${buttonStyle} bg-blue-600 border border-transparent hover:bg-blue-700 focus:ring-blue-700`}
                   role="button"
                 >
-                  Explore Maniya
+                  Explore Maniya Bot
                 </a>
               </div>
 
@@ -60,7 +60,7 @@ function Hero15() {
                   <div className="px-4 py-5 sm:p-6">
                     <blockquote>
                       <p className="text-base font-normal leading-6 text-white">
-                        Maniya has transformed how we handle secure
+                        Maniya Bot has transformed how we handle secure
                         communication. The platform&apos;s efficiency and
                         security are unmatched.
                       </p>

@@ -15,17 +15,17 @@ const questions = [
   {
     question: "How do I get started?",
     answer:
-      "Visit the Maniya website, create your account, and connect your Web3 wallet to start messaging securely using blockchain technology.",
+      "Visit the Maniya Bot website, create your account, and connect your Web3 wallet to start messaging securely using blockchain technology.",
   },
   {
-    question: "Is Maniya secure?",
+    question: "Is Maniya Bot secure?",
     answer:
-      "Yes, Maniya uses blockchain technology to ensure all messages are encrypted and stored securely on the blockchain, providing enhanced privacy and security.",
+      "Yes, Maniya Bot uses blockchain technology to ensure all messages are encrypted and stored securely on the blockchain, providing enhanced privacy and security.",
   },
   {
     question: "Are there any transaction fees?",
     answer:
-      "Maniya allows you to message for free. However, you may incur minimal gas fees for blockchain transactions like storing messages on-chain.",
+      "Maniya Bot allows you to message for free. However, you may incur minimal gas fees for blockchain transactions like storing messages on-chain.",
   },
   {
     question: "How can I reach customer support?",
@@ -55,7 +55,7 @@ const Faqs5: React.FC = () => {
             Questions & Answers..
           </h2>
           <p className="max-w-xl mx-auto mt-4 text-base leading-relaxed text-gray-200">
-            Explore the common questions and answers about Maniya
+            Explore the common questions and answers about Maniya Bot
           </p>
         </div>
 

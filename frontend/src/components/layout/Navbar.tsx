@@ -26,7 +26,7 @@ const Header2 = () => {
           <div className="flex-shrink-0">
             <Link href="#" className="flex" title="Aura UI">
             
-              <h3 className="font-bold text-[24px] text-white ">Maniya</h3>
+              <h3 className="font-bold text-[24px] text-white ">ManiyaBot</h3>
             </Link>
           </div>
 

@@ -28,7 +28,7 @@ const Footer3 = () => {
       <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-12 gap-y-12 gap-x-8 xl:gap-x-12">
           <div className="col-span-2 md:col-span-4 xl:pr-8">
-            <h3 className="font-bold text-[24px]">Maniya</h3>
+            <h3 className="font-bold text-[24px]">ManiyaBot</h3>
             <p className="text-base leading-relaxed text-gray-600 mt-7">
               Build with passion. Get connected with Maniya for seamless, secure
               communication across blockchain-powered platforms.
@@ -101,7 +101,7 @@ const Footer3 = () => {
 
         <div className="sm:flex sm:items-center sm:justify-between">
           <p className="text-sm text-gray-600">
-            © Copyright 2024, All Rights Reserved by Maniya
+            © Copyright 2024, All Rights Reserved by ManiyaBot
           </p>
 
           <ul className="flex items-center mt-5 space-x-3 md:order-3 sm:mt-0">

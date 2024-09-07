@@ -23,7 +23,7 @@ const Feature15 = () => {
               Secured Messaging
             </h3>
             <p className="mt-4 text-sm text-gray-600">
-              Maniya ensures all messages are encrypted and securely stored on
+              Maniya Bot ensures all messages are encrypted and securely stored on
               the blockchain.
             </p>
           </div>
@@ -48,7 +48,7 @@ const Feature15 = () => {
               Light & Dark Mode
             </h3>
             <p className="mt-4 text-sm text-gray-600">
-              Switch between light and dark modes effortlessly with Maniya.
+              Switch between light and dark modes effortlessly with Maniya Bot.
             </p>
           </div>
 
@@ -61,7 +61,7 @@ const Feature15 = () => {
             </h3>
             <p className="mt-4 text-sm text-gray-600">
               Easily filter through your conversations to find important
-              messages in Maniya.
+              messages in Maniya Bot.
             </p>
           </div>
         </div>
